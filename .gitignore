@@ -1,0 +1,12 @@
+/__pycache__
+__pycache__/
+
+.env
+/bin/
+/lib/
+/lib64
+/include/
+
+*.pyc
+/Scripts/
+.vscode
